@@ -1,1 +1,3 @@
 # JS
+
+https://stackoverflow.com/questions/15381198/remove-credentials-from-git
